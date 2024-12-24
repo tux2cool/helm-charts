@@ -4,6 +4,7 @@ metadata:
   name: helm-charts
   annotations:
     github.com/project-slug: tux2cool/helm-charts
+    backstage.io/techdocs-ref: url:https://github.com/tux2cool/helm-charts/blob/main/README.md
 spec:
   type: other
   lifecycle: unknown
